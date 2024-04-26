@@ -22,7 +22,7 @@ To get started with the project, follow the instructions below:
    - Other necessary hardware such as resistors, diodes, and wires.
 
 2. **Software**:
-   - Arduino IDE for coding and uploading sketches to the Arduino Uno.
+   - Microchip Studio.
    - Proteus simulation software.
    - Clone the repository to your local machine.
 
