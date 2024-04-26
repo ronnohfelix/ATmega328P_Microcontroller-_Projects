@@ -1,4 +1,4 @@
-# Project Portfolio
+# ATmega328P Microcontroller Projects
 
 Welcome! This folder contains a collection of projects spanning various domains such as engineering, electronics, and consumer product design. Each project is documented with a detailed readme file outlining its goals, features, and instructions to help you get started. I completed these projects but still needs perfection.
 
